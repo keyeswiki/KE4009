@@ -73,7 +73,7 @@ Kidsblock支持多种硬件平台，包括Arduino等，用户可以通过图形�
 
 通过上述步骤，生成的Kidsblock代码如下所示：
 
-![生成的代码](media/ad6edfc453b55039a09085763f260445.png)
+![](media/ad6edfc453b55039a09085763f260445.png)
 
 ### 6. 测试结果
 
